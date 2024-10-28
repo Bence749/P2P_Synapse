@@ -18,4 +18,4 @@ Le projet **P2P_Synapsee** implémente un noeud de communication pour des résea
 
 ### Perspectives
 
-Connexions de plusieurs DHT Chords réels
+Connexions de plusieurs DHT Chord réels
